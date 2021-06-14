@@ -11,3 +11,5 @@ Note:
 The material properties and loading datas have been included in each material folder. The sample code show the structure how to reproduce the process.
 If the material is not list in our file, importing the each property of material and loading data can predict the fatigue life. 
 The proposed model have been validated by several materials.
+
+
