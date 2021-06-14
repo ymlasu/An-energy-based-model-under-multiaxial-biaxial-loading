@@ -1,6 +1,6 @@
 # An-energy-based-model-under-multiaxial-biaxial-loading
 
-This model can directly predict fatigue life both uniaxial and multiaxial loading under constant loadings no matter high cycle faitgue or low cycle fatigue regimes. However, the there is not validated by LCF data. The code is suitable for different materials.
+This model can directly predict fatigue life both biaxial and multiaxial loading under constant loadings no matter high cycle faitgue or low cycle fatigue regimes. However, the there is not validated by LCF data. The code is suitable for different materials.
 
 The code is proposed under "An energy-based model to assess multiaxial fatigue damage under tension-torsion and tension-tension loadings". 
 All the detail in the code can be found in this paper.
