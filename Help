@@ -1,0 +1,13 @@
+The four codes are the essential to predict fatigue life.
+
+The main code "FatiguePipeline.m" in the main folder is a sample. The following statement can help scholars to use this code to do predictions easily.
+
+The first step is add the path to include rest of files to ensure the code can run correctly.
+Secondly, import the material properties and fitting parameters which can be gathered from experimental data.
+Thirdly, import the loading path data 
+After these process, run the code can acquire the result from the parameter: "F_life".
+
+Note:
+The material properties and loading datas have been included in each material folder. The sample code show the structure how to reproduce the process.
+If the material is not list in our file, importing the each property of material and loading data can predict the fatigue life. 
+The proposed model have been validated by several materials.
